@@ -32,3 +32,25 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
   </body>
 </html>
+<!-- CSS FOR KEITH"S BLOG -->
+.container{
+  
+}
+.container h1{
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.post{
+  box-shadow: 0px 2px 8px 1px;
+  background-color: #055D8F;
+  
+}
+.post h4{
+  margin-left: 1rem;
+  color: white;
+}
+.post p{
+  margin-left: 4rem;
+  color:white;
+}
